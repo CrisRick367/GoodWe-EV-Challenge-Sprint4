@@ -21,11 +21,11 @@ contra cada versão do agente, pontua as respostas com **LLM as a judge** e agre
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env            # preencha OPENAI_API_KEY (no Colab, use Secrets)
+cp .env.example .env
 
-python run_eval.py --mock                              # valida o pipeline sem rede nem custo
-python run_eval.py                                     # avaliação real das 3 versões padrão
-python run_eval.py --repeticoes 3                      # recomendado: reduz ruído
+python run_eval.py --moc
+python run_eval.py
+python run_eval.py --repeticoes 3
 python auditoria.py results/<execucao>
 python compare_manual.py results/<execucao>/resumo_auditado.json avaliacao_manual_sprint3.csv
 python gerar_relatorio.py results/<execucao> relatorio_final_sprint4.pdf
