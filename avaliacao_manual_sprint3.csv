@@ -1,0 +1,37 @@
+caso_id,versao,avaliacao_manual,justificativa,fonte
+F1,v1_sprint2,Adequada,,"Notebook Sprint 3, celula 63 (Sprint 1/2)"
+F2,v1_sprint2,Adequada,,"Notebook Sprint 3, celula 63 (Sprint 1/2)"
+F3,v1_sprint2,Parcialmente Adequada,,"Notebook Sprint 3, celula 63 (Sprint 1/2)"
+F4,v1_sprint2,Adequada,,"Notebook Sprint 3, celula 63 (Sprint 1/2)"
+F5,v1_sprint2,Adequada,,"Notebook Sprint 3, celula 63 (Sprint 1/2)"
+M1,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S1,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S2,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S3,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S4,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S5,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+S6,v1_sprint2,,,Sem avaliacao manual registrada (Sprint 1/2 nao tinha teste formal)
+F1,v2_conservador,,,NAO AVALIADO: erro de API (max_output_tokens) na Sprint 3
+F2,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+F3,v2_conservador,,,NAO AVALIADO: erro de API (max_output_tokens) na Sprint 3
+F4,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+F5,v2_conservador,,,NAO AVALIADO: erro de API (max_output_tokens) na Sprint 3
+M1,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S1,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S2,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S3,v2_conservador,Parcialmente Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S4,v2_conservador,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S5,v2_conservador,,,NAO AVALIADO: erro de API (max_output_tokens) na Sprint 3
+S6,v2_conservador,,,NAO AVALIADO: erro de API (max_output_tokens) na Sprint 3
+F1,v2_criativo,Inadequada,,relatorio_modelos.md atualizado (Sprint 3)
+F2,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+F3,v2_criativo,Parcialmente Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+F4,v2_criativo,Parcialmente Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+F5,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+M1,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S1,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S2,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S3,v2_criativo,Inadequada,,relatorio_modelos.md atualizado (Sprint 3)
+S4,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S5,v2_criativo,Parcialmente Adequada,,relatorio_modelos.md atualizado (Sprint 3)
+S6,v2_criativo,Adequada,,relatorio_modelos.md atualizado (Sprint 3)
